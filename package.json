@@ -2,7 +2,7 @@
   "name": "sample-lib",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/lib/index.js",
   "scripts": {
     "install": "node ./node_modules/webpack/bin/webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
