@@ -4,7 +4,6 @@
   "description": "",
   "main": "./dist/lib/index.js",
   "scripts": {
-    "preinstall": "npm install --only=dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
