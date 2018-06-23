@@ -4,7 +4,7 @@
   "description": "",
   "main": "./dist/lib/index.js",
   "scripts": {
-    "install": "NODE_ENV=development npm install",
+    "install": "export NODE_ENV=development npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
