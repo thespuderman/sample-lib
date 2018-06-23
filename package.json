@@ -4,7 +4,7 @@
   "description": "",
   "main": "./dist/lib/index.js",
   "scripts": {
-    "pre-install": "npm install --only=dev && ./node_modules/webpack/bin/webpack",
+    "preinstall": "npm install --only=dev && ./node_modules/webpack/bin/webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
