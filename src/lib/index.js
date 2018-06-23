@@ -1,5 +1,5 @@
 import SampleComponent from './SampleComponent';
 
-export default {
-    SampleComponent,
-}
+module.exports = {
+    SampleComponent
+};
